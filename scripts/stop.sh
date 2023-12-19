@@ -1,4 +1,4 @@
 #!/bin/bash
-nomeApp="<helloreact>"
+nomeApp="helloreact"
 
 sudo supervisorctl stop $nomeApp
